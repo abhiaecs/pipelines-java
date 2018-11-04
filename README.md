@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/abhilaa/Project3010/_apis/build/status/Project0511-CI)](https://dev.azure.com/abhilaa/Project3010/_build/latest?definitionId=3)
 
 # Contributing
 
